@@ -4,7 +4,7 @@
 var chaya = function () {
     return {
         Name:function () {
-            return 'chaya';
+            return 'itzik';
         },
         Family:function () {
             return 'roth';
